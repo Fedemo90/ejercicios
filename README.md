@@ -1,0 +1,2 @@
+# ejercicios
+Ejercicios de cursada
