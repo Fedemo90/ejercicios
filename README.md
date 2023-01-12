@@ -1,2 +1,2 @@
 # ejercicios
-Ejercicios de cursada
+Ejercicios de la cursada de la Tecnicatura en Programación
